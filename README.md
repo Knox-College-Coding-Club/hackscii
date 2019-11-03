@@ -42,6 +42,7 @@ Have another idea for a prompt? Make a pull-request or ask Patrick to add it!
 made by Nathalie Lawhead
 2. A game engine that renders in ASCII: http://vectorpoem.com/playscii/
 3. https://en.wikipedia.org/wiki/ASCII_art
+4. A book all about the history of Print10: nickm.com/trope_tank/10_PRINT_121114.pdf
 
 ## Tips
 Make sure to use a monospaced font like courier or courier new. A monospaced font is one where all the characters are the same width.
