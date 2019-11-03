@@ -31,3 +31,10 @@ You could try:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i love making diagrams like this as comments <a href="https://t.co/7fTtj3PXJl">pic.twitter.com/7fTtj3PXJl</a></p><img src="https://pbs.twimg.com/media/ECfmXlqWwAAvE9r?format=jpg&name=medium" alt="Diagrams written into the comments of code.">&mdash; loren schmidt (@lorenschmidt) <a href="https://twitter.com/lorenschmidt/status/1164152324568363011?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
 5. Grow an ASCII garden! Can you animate it?
 6. Render different geometric forms with only text.
+
+Have another idea for a prompt? Make a pull-request or ask Patrick to add it!
+
+## Resources
+1. MS Paint, but with ASCII? Let's you export to text: http://ascii.alienmelon.com/
+made by Nathalie Lawhead
+2.
