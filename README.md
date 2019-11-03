@@ -29,12 +29,19 @@ You could try:
 3. Make an emoticon generator that combines different punctuation into thousands of different emoticons
 4. You remember that project you finished just before the deadline with no comments? Go back and add comments, but get creative! Consider adding illustrations of your code or decoration to your comments.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i love making diagrams like this as comments <a href="https://t.co/7fTtj3PXJl">pic.twitter.com/7fTtj3PXJl</a></p><img src="https://pbs.twimg.com/media/ECfmXlqWwAAvE9r?format=jpg&name=medium" alt="Diagrams written into the comments of code.">&mdash; loren schmidt (@lorenschmidt) <a href="https://twitter.com/lorenschmidt/status/1164152324568363011?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
-5. Grow an ASCII garden! Can you animate it?
-6. Render different geometric forms with only text.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ascii art source code comments to explain rendering algorithms <a href="https://t.co/RUnbx8j2Gm">pic.twitter.com/RUnbx8j2Gm</a></p><img src="https://pbs.twimg.com/media/CotulPGXgAAekME?format=jpg&name=medium" alt="Diagrams written into the comments of code.">&mdash; loren schmidt (@lorenschmidt) <a href="https://twitter.com/lorenschmidt/status/759822575962820608?ref_src=twsrc%5Etfw">July 31, 2016</a></blockquote>
+5. Grow an ASCII garden! (example) Can you animate it?
+![A simple arrangement of pipes, carrots, and Os that make a garden.](https://imgur.com/JMBuPvu)
 
 Have another idea for a prompt? Make a pull-request or ask Patrick to add it!
 
 ## Resources
 1. MS Paint, but with ASCII? Let's you export to text: http://ascii.alienmelon.com/
 made by Nathalie Lawhead
-2.
+2. A game engine that renders in ASCII: http://vectorpoem.com/playscii/
+3. https://en.wikipedia.org/wiki/ASCII_art
+
+## Tips
+Make sure to use a monospaced font like courier or courier new. A monospaced font is one where all the characters are the same width.
+
+For Java, feel free to just output to the console. Alternatively, you can use Java's GUI system.
